@@ -12,7 +12,7 @@ Toute action ou comportement qui :
 - Manque de respect envers une autre personne ou groupe de façon abusive ;
 - Créé des situations de conflit à répétition ;
 
-<br />**EST INTERDIT**, et peut entraîner l’expulsion pour une période fixe ou à vie.
+**EST INTERDIT**, et peut entraîner l’expulsion pour une période fixe ou à vie.
 
 Si quelqu’un vous dit “non” de façon répétitive (2 fois et plus), ou vous demande de les laisser tranquilles, vous **DEVEZ** arrêter de communiquer avec eux. Si vous continuez à tenter d’avoir des contacts avec ces personnes à ce sujet, vous serez expulsé.
 
