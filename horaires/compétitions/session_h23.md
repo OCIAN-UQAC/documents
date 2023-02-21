@@ -16,19 +16,19 @@
 
 ## Intelligence Artificielle
 
-### OpenAI Hackation
+### Spaceship Titanic
 - Endroit : Virtuelle
-- Date(s) : 24 février au 3 mars
-- Type : Open-AI tel que Whisper, GPT-3, DALL-E 2, Codex, and ChatGPT
-- Compétiteurs : Tout le monde
-- https://lablab.ai/event/openai-hackathon
+- Date(s) : Pas de date de fin
+- Type : AMLT
+- Compétiteurs : Tout le monde - DÉUBTANT
+- https://www.kaggle.com/competitions/spaceship-titanic/overview
 
-### Xylem Global Student Innovation challenge
+### Connect X
 - Endroit : Virtuelle
-- Date(s): 1er mars au 22 avril
-- Type : AI, Big Data, Energy
-- Compétiteurs : Étudiants au college/université de 25 ans et moins
-- https://www.hackathon.com/event/xylem-global-student-innovation-challenge-2023-63ceac75852392001cb1d430
+- Date(s): Pas de date de fin
+- Type : Simulation
+- Compétiteurs : Tout le monde - DÉUBTANT
+- https://www.kaggle.com/competitions/connectx
 
 ## Cybersécurité
 
